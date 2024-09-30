@@ -1,0 +1,17 @@
+p, li {
+    font-size: 16px; /* Make the bullet points smaller */
+    font-weight: normal; /* Ensure the bullet points are not bold */
+}
+
+h1 {
+    font-size: 32px;
+    border: 10px solid black
+}
+
+.picture{
+    width: 100px;
+    height: 100px;
+    border-radius: 75%;
+    position: relative;
+    left: 50%
+}
